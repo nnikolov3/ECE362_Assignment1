@@ -1,15 +1,8 @@
 /* Nikolay Nikolov
  * ECE 362
  * Assignment 1
- * 01/17/2019
  * Proffessor: Tom Schubert
- * TA:Himanshu Devi
- *
  */
-
-
-
-
 
 #include <stdio.h>
 #include <stdlib.h>
